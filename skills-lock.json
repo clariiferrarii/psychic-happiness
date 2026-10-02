@@ -193,6 +193,12 @@
       "skillPath": "skills/gradient/SKILL.md",
       "computedHash": "f9a03db3d2396923508d96413f9e23287b4b9532fb8c12d4f25669cd858d2d58"
     },
+    "img2threejs": {
+      "source": "img2threejs/img2threejs",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "91cec015dd9a70e558ee67abd479cc91ce49fd7134375b50bc6e6514c4db102e"
+    },
     "immersive": {
       "source": "bergside/awesome-design-skills",
       "sourceType": "github",
